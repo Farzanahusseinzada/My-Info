@@ -1,0 +1,20 @@
+#all{
+    margin: 40px;
+    text-decoration-color: azure;
+}
+#head{
+    background-color: #BE5985;
+}
+#body{
+    background-color: #FFB8E0;
+    -webkit-text-fill-color: aliceblue;
+}
+.star{
+    -webkit-text-fill-color: red;
+}
+#submit{
+    background-color: #EC7FA9;
+}
+#a{
+    -webkit-text-fill-color: blue;
+}
